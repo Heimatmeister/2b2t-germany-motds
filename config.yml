@@ -26,6 +26,8 @@ description:
     - "&7&l&o2B &6TudbuT is the king of &k2b2t %newline%&7&l&o2T"
     - "&7&l&o2B &6TTC on top! %newline%&7&l&o2T"
     - "&7&l&o2B &6e621 :flushed: %newline%&7&l&o2T"
+    #2843501 on e621
+    - "&7&l&o2B &62843501 on e621 thank me later %newline%&7&l&o2T"
 # Not supported on: Spigot (Paper works), Sponge
 version:
   # The version name is shown if the version of the client doesn't match the version of the server.
