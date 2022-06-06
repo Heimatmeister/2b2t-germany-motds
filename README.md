@@ -14,4 +14,4 @@ any advertising will result in your username being written down and forever deni
 
 all requests must be from a pull request, any issues made will not be acknowledged
 
-Your MOTD may not make it due to an issue, if it doesnt ill let you know meaning dont bitch about it
+Your MOTD may not make it due to an issue, if it doesnt ill let you know and show you how to fix it, this means dont bitch about it be patient
