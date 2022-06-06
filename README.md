@@ -2,7 +2,7 @@
 allows players of 2b2t germany to request an MOTD to be used with the rest of the random ones
 
 
-rules:
+rules for requesting an MOTD:
 
 no advertising
 
