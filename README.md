@@ -4,7 +4,7 @@ allows players of 2b2t germany to request an MOTD to be used with the rest of th
 
 rules for requesting an MOTD:
 
-no advertising
+no advertising your own server, i can guarentee its probably shitty and the hardware is far worse (i can say this since my hardware is and always will be far more superior)
 
 no bullshitting
 
