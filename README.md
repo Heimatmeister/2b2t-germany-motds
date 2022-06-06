@@ -3,8 +3,13 @@ allows players of 2b2t germany to request an MOTD to be used with the rest of th
 
 
 rules:
+
 no advertising
-\nno bullshitting
-\nfollow the format already provided in config.yml
-\nany advertising will result in your username being written down and forever denied
-\nall requests must be from a pull request, any issues made will not be acknowledged
+
+no bullshitting
+
+follow the format already provided in config.yml
+
+any advertising will result in your username being written down and forever denied
+
+all requests must be from a pull request, any issues made will not be acknowledged
