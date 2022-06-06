@@ -13,3 +13,5 @@ follow the format already provided in config.yml
 any advertising will result in your username being written down and forever denied
 
 all requests must be from a pull request, any issues made will not be acknowledged
+
+Your MOTD may not make it due to an issue, if it doesnt ill let you know meaning dont bitch about it
